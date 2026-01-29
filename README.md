@@ -1,5 +1,5 @@
 # RANAS Analyser
-<sup>_(Version française ci-dessous)_</sup>
+<sup>_([Version française ci-dessous](#ranas-analyser-fr))_</sup>
 
 RANAS Analyser is a tool that performs a doer / non-doer analysis of a RANAS quantitative survey, which is used in the assessment phase of a behaviour change campaign based on the [RANAS methodology](https://ranas.ch). It computes the difference in behavioural factors – called RANAS factors – between "doers" and "non-doers" of a predefined behaviour. This allows the identification of the most important factors that influence the target behaviour, so that these factors can be addressed with tailored activities during the implementation phase of the campaign.
 
