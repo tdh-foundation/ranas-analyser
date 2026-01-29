@@ -19,7 +19,7 @@ Click on the name of the file that you want to download, then click on the "Down
 
 Additionally, a "Previous versions" subfolder contains previous releases of the tool. The main changes made in each release are documented in the [release notes](release_notes.md).
 
-The RANAS Analyser is meant to be a self-contained tool, with instructions on each sheet on how to use it. <ins>**Be sure to read them!**</ins>
+The RANAS Analyser is meant to be a self-contained tool, with detailed instructions on each sheet on how to use it. <ins>**Be sure to read them!**</ins>
 </br>
 </br>
 
@@ -44,4 +44,4 @@ Cliquez sur le nom du fichier que vous souhaitez télécharger, puis sur le bout
 
 De plus, un sous-dossier «Previous versions» contient les versions précédentes de l'outil. Les principales modifications apportées à chaque version sont documentées dans les [notes de mise à jour](release_notes.md) (uniquement en anglais).
 
-RANAS Analyser est conçu pour être un outil autonome, avec des instructions d'utilisation sur chaque feuille. <ins>**Veillez à les lire attentivement!**</ins>
+RANAS Analyser est conçu pour être un outil autonome, avec des instructions d'utilisation détaillées sur chaque feuille. <ins>**Veillez à les lire attentivement!**</ins>
