@@ -20,6 +20,8 @@ Click on the name of the file that you want to download, then click on the "Down
 Additionally, a "Previous versions" subfolder contains previous releases of the tool. The main changes made in each release are documented in the [release notes](release_notes.md).
 
 The RANAS Analyser is meant to be a self-contained tool, with instructions on each sheet on how to use it. <ins>**Be sure to read them!**</ins>
+</br>
+</br>
 
 # RANAS Analyser (FR)
 <sup>_(Version française)_</sup>
