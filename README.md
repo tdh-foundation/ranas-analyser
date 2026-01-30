@@ -21,12 +21,12 @@ Additionally, a "Previous versions" subfolder contains previous releases of the 
 
 The RANAS Analyser is meant to be a self-contained tool, with detailed instructions on each sheet on how to use it. <ins>**Be sure to read them!**</ins>
 
-# Credentials
+## Credentials
 This project was developed by [RANAS Ltd.](https://ranas.ch), [Terre des hommes](https://www.tdh.org) (Tdh) and the [Swiss Water & Sanitation Consortium](https://waterconsortium.ch/) (SWSC).
 It was co-funded by SWSC and the Swiss Agency for Development and Cooperation (SDC).
 The ideas and opinions presented in this document do not necessarily represent those of the aforementioned co-funding agencies.
 
-# License
+## License
 <img src="https://github.com/user-attachments/assets/4e025c28-ae4c-4015-a7be-d5b4304db88a" height="32">
 
 This work is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY­NC­ND 4.0).
@@ -59,12 +59,12 @@ De plus, un sous-dossier «Previous versions» contient les versions précédent
 
 RANAS Analyser est conçu pour être un outil autonome, avec des instructions d'utilisation détaillées sur chaque feuille. <ins>**Veillez à les lire attentivement!**</ins>
 
-# Crédits
+## Crédits
 Ce projet a été développé par [RANAS Ltd.](https://ranas.ch), [Terre des hommes](https://www.tdh.org) (Tdh) et le [Consortium suisse pour l'eau et l'assainissement](https://waterconsortium.ch/fr/) (SWSC).
 Il a été cofinancé par SWSC et la Direction suisse du développement et de la coopération (DDC).
 Les idées et opinions présentées dans ce document ne représentent pas nécessairement celles des agences de cofinancement susmentionnées.
 
-# Licence
+## Licence
 <img src="https://github.com/user-attachments/assets/4e025c28-ae4c-4015-a7be-d5b4304db88a" height="32">
 
 Ce document est mis à disposition selon les termes de la licence Creative Commons Attribution - Utilisation non commerciale - Pas d’Œuvre dérivée 4.0 International (CC BY­NC­ND 4.0).
