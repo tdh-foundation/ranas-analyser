@@ -17,7 +17,7 @@ To download the most recent version of the tool, navigate to the corresponding d
 
 Click on the name of the file that you want to download, then click on the "Download raw file" button (![GitHub-download-button](https://github.com/user-attachments/assets/bb09f900-8fff-49d2-ad19-0ba44d17ac96)) and save the file to your computer. The RANAS Analyser should be opened with the desktop version of Excel, because some features are not compatible with Excel Online.
 
-Additionally, a "Previous versions" subfolder contains previous releases of the tool. The main changes made in each release are documented in the [release notes](release_notes.md).
+Additionally, a "Previous_versions" subfolder contains previous releases of the tool. The main changes made in each release are documented in the [release notes](release_notes.md).
 
 The RANAS Analyser is meant to be a self-contained tool, with detailed instructions on each sheet on how to use it. <ins>**Be sure to read them!**</ins>
 
@@ -55,7 +55,7 @@ Pour télécharger la dernière version de l'outil, allez dans le dossier corres
 
 Cliquez sur le nom du fichier que vous souhaitez télécharger, puis sur le bouton «Download raw file» (![GitHub-download-button](https://github.com/user-attachments/assets/bb09f900-8fff-49d2-ad19-0ba44d17ac96)) et enregistrez le fichier sur votre ordinateur. Le RANAS Analyser devrait être ouvert avec la version bureau d'Excel, car certaines fonctionnalités ne sont pas compatibles avec Excel Online.
 
-De plus, un sous-dossier «Previous versions» contient les versions précédentes de l'outil. Les principales modifications apportées à chaque version sont documentées dans les [notes de mise à jour](release_notes.md) (uniquement en anglais).
+De plus, un sous-dossier «Previous_versions» contient les versions précédentes de l'outil. Les principales modifications apportées à chaque version sont documentées dans les [notes de mise à jour](release_notes.md) (uniquement en anglais).
 
 RANAS Analyser est conçu pour être un outil autonome, avec des instructions d'utilisation détaillées sur chaque feuille. <ins>**Veillez à les lire attentivement!**</ins>
 
